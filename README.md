@@ -1,7 +1,7 @@
 # Scientific Calculator using stdlib Utilities
 
-**Abstract**
-This is a scientific calculator a close to accurate version of real-life scientific calculator made using `Reactjs` & `stdlib` utilities.
+## Abstract
+This is a scientific calculator a close to accurate version of real-life scientific calculator made by using `Reactjs` & `stdlib` utilities along with `react-plugins`.
 
 ---
 
@@ -34,6 +34,6 @@ Currently, two official plugins are available:
 ## Future Refinements
 
 - Handling operations resulting in undefined values explicitly
-- For Ex:- `tan(90), exp( 0, 0 ) and (-1)!
+- For Ex:- `tan(90)`, `exp( 0, 0 )` and `(-1)!`
 
 ---
