@@ -27,7 +27,7 @@ Currently, two official plugins are available:
 
 - Wide variety of mathematical operations and functions like `sin`, `cos`, `tan`, `log` & many more..
 - Precise results for standard calculations.
-- Calculations are updated live after every small calcultaion.
+- Calculations are updated live after every small calculation.
 
 ---
 

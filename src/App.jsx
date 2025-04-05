@@ -51,7 +51,7 @@ function App() {
   }
 
   const stdlibMathFunctions = {
-    sin: () => setResult(sin(result * (PI / 180)).toString()), // converting degrees to radions for trignometric functions
+    sin: () => setResult(sin(result * (PI / 180)).toString()), // converting degrees to radians for trignometric functions
     cos: () => setResult(cos(result * (PI / 180)).toString()),
     tan: () => setResult(tan(result * (PI / 180)).toString()),
     sqrt: () => setResult(sqrt(result).toString()),
